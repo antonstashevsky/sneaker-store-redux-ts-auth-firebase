@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Nike ZoomX 55",
+    "price": 117,
+    "imgUrl": "/images/nike1.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "Nike ZoomX 1",
+    "price": 99.99,
+    "imgUrl": "/images/nike2.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "Asics Classic",
+    "price": 125,
+    "imgUrl": "/images/asics1.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "Asics Special",
+    "price": 149.99,
+    "imgUrl": "/images/asics2.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Nike ZoomX 55",
+    "price": 117,
+    "imgUrl": "/images/nike1.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "name": "Nike ZoomX 1",
+    "price": 99.99,
+    "imgUrl": "/images/nike2.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "name": "Asics Classic",
+    "price": 125,
+    "imgUrl": "/images/asics1.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "name": "Asics Special",
+    "price": 149.99,
+    "imgUrl": "/images/asics2.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 9,
+    "name": "Nike ZoomX 55",
+    "price": 117,
+    "imgUrl": "/images/nike1.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 10,
+    "name": "Nike ZoomX 1",
+    "price": 99.99,
+    "imgUrl": "/images/nike2.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 11,
+    "name": "Asics Classic",
+    "price": 125,
+    "imgUrl": "/images/asics1.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 12,
+    "name": "Asics Special",
+    "price": 149.99,
+    "imgUrl": "/images/asics2.jpeg",
+    "quantity": 0
+  }
+]
