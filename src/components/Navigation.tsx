@@ -1,4 +1,3 @@
-import React from "react";
 import { Button, Container, Nav, Navbar } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import { useAppDispatch, useAppSelector } from "../hooks/hook";
@@ -54,7 +53,6 @@ const Navigation = () => {
             style={{ width: "3rem", height: "3rem", position: "relative" }}
             variant="outline-primary"
             className="rounded-circle"
-            //   onClick={onCartClicked}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
